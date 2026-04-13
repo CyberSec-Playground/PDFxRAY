@@ -24,11 +24,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _Add your screenshots here_
-
----
 
 ## 🚀 Getting Started
 
